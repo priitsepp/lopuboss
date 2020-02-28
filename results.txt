@@ -1,0 +1,1289 @@
+
+Regular Season Table
+
+
+
+Date
+Visitor
+G
+Home
+G
+
+Att.
+LOG
+Notes
+
+
+
+2019-10-02Vancouver Canucks2Edmonton Oilers318,3472:23
+2019-10-02Washington Capitals3St. Louis Blues2OT18,0962:32
+2019-10-02Ottawa Senators3Toronto Maple Leafs519,6122:36
+2019-10-02San Jose Sharks1Vegas Golden Knights418,5882:44
+2019-10-03Arizona Coyotes1Anaheim Ducks217,1742:25
+2019-10-03Montreal Canadiens3Carolina Hurricanes4SO18,6802:41
+2019-10-03Calgary Flames3Colorado Avalanche518,0162:40
+2019-10-03Boston Bruins2Dallas Stars118,5322:33
+2019-10-03Minnesota Wild2Nashville Predators517,4552:29
+2019-10-03Winnipeg Jets4New York Rangers618,0062:30
+2019-10-03Buffalo Sabres3Pittsburgh Penguins118,6162:29
+2019-10-03Florida Panthers2Tampa Bay Lightning519,0922:27
+2019-10-04Toronto Maple Leafs4Columbus Blue Jackets118,7762:26
+2019-10-04Winnipeg Jets5New Jersey Devils4SO16,5142:36
+2019-10-04Washington Capitals2New York Islanders113,9172:27
+2019-10-04Chicago Blackhawks3Philadelphia Flyers417,4632:31
+2019-10-04Vegas Golden Knights5San Jose Sharks117,5622:28
+2019-10-05San Jose Sharks1Anaheim Ducks315,7952:27
+2019-10-05Boston Bruins1Arizona Coyotes017,1252:17
+2019-10-05New Jersey Devils2Buffalo Sabres719,0702:24
+2019-10-05Vancouver Canucks0Calgary Flames319,0052:28
+2019-10-05Minnesota Wild2Colorado Avalanche417,0902:32
+2019-10-05Los Angeles Kings5Edmonton Oilers618,3472:30
+2019-10-05Tampa Bay Lightning3Florida Panthers417,4242:29
+2019-10-05Detroit Red Wings5Nashville Predators317,5392:36
+2019-10-05New York Rangers4Ottawa Senators115,1352:25
+2019-10-05Columbus Blue Jackets2Pittsburgh Penguins718,5952:23
+2019-10-05Dallas Stars2St. Louis Blues318,0962:28
+2019-10-05Montreal Canadiens6Toronto Maple Leafs5SO19,5474:03
+2019-10-05Carolina Hurricanes3Washington Capitals2OT18,5732:53
+2019-10-06Tampa Bay Lightning3Carolina Hurricanes4OT14,1252:39
+2019-10-06Dallas Stars3Detroit Red Wings419,5152:28
+2019-10-06Winnipeg Jets1New York Islanders49,9232:23
+2019-10-07Buffalo Sabres3Columbus Blue Jackets4OT14,6182:38
+2019-10-07St. Louis Blues3Toronto Maple Leafs219,4662:25
+2019-10-08Los Angeles Kings4Calgary Flames3OT18,1502:33
+2019-10-08Anaheim Ducks3Detroit Red Wings118,2092:19
+2019-10-08Carolina Hurricanes6Florida Panthers311,6382:29
+2019-10-08San Jose Sharks2Nashville Predators517,2512:32
+2019-10-08Edmonton Oilers5New York Islanders210,9852:32
+2019-10-08Winnipeg Jets4Pittsburgh Penguins118,4202:25
+2019-10-08Boston Bruins4Vegas Golden Knights318,2232:31
+2019-10-08Dallas Stars4Washington Capitals3OT18,5732:35
+2019-10-09Montreal Canadiens4Buffalo Sabres5OT15,3832:32
+2019-10-09New Jersey Devils0Philadelphia Flyers419,6582:36
+2019-10-09Los Angeles Kings2Vancouver Canucks818,9552:29
+2019-10-10Vegas Golden Knights1Arizona Coyotes413,8642:23
+2019-10-10San Jose Sharks5Chicago Blackhawks421,4552:22
+2019-10-10Boston Bruins2Colorado Avalanche418,0452:35
+2019-10-10Calgary Flames3Dallas Stars2SO17,9892:42
+2019-10-10Detroit Red Wings4Montreal Canadiens221,3022:31
+2019-10-10Edmonton Oilers4New Jersey Devils3SO14,5862:38
+2019-10-10Washington Capitals5Nashville Predators617,3862:37
+2019-10-10St. Louis Blues6Ottawa Senators49,2042:33
+2019-10-10Anaheim Ducks1Pittsburgh Penguins218,4142:30
+2019-10-10Tampa Bay Lightning7Toronto Maple Leafs319,3872:24
+2019-10-10Minnesota Wild2Winnipeg Jets515,3252:29
+2019-10-11Florida Panthers2Buffalo Sabres3SO15,6382:40
+2019-10-11New York Islanders2Carolina Hurricanes514,8752:34
+2019-10-11Anaheim Ducks2Columbus Blue Jackets115,3682:15
+2019-10-12New Jersey Devils0Boston Bruins317,1932:24
+2019-10-12Columbus Blue Jackets3Carolina Hurricanes216,2242:35
+2019-10-12Winnipeg Jets3Chicago Blackhawks2OT21,3402:24
+2019-10-12Arizona Coyotes2Colorado Avalanche3OT18,0532:39
+2019-10-12Washington Capitals4Dallas Stars118,5322:39
+2019-10-12Toronto Maple Leafs5Detroit Red Wings219,5152:23
+2019-10-12Nashville Predators4Los Angeles Kings718,2302:28
+2019-10-12Pittsburgh Penguins7Minnesota Wild419,1572:44
+2019-10-12St. Louis Blues3Montreal Canadiens621,3022:32
+2019-10-12Florida Panthers2New York Islanders3SO11,4212:42
+2019-10-12Edmonton Oilers4New York Rangers117,1772:25
+2019-10-12Tampa Bay Lightning2Ottawa Senators411,0232:28
+2019-10-12Philadelphia Flyers2Vancouver Canucks3SO18,6522:39
+2019-10-12Calgary Flames2Vegas Golden Knights618,1922:26
+2019-10-13Vegas Golden Knights5Los Angeles Kings217,6992:26
+2019-10-13Calgary Flames1San Jose Sharks316,2502:29
+2019-10-13Pittsburgh Penguins7Winnipeg Jets215,3252:30
+2019-10-14Anaheim Ducks2Boston Bruins417,1932:41
+2019-10-14Dallas Stars0Buffalo Sabres416,5952:19
+2019-10-14Edmonton Oilers1Chicago Blackhawks321,2602:25
+2019-10-14Florida Panthers6New Jersey Devils413,2082:22
+2019-10-14St. Louis Blues2New York Islanders3OT10,3552:35
+2019-10-14Minnesota Wild2Ottawa Senators011,5002:35
+2019-10-14Colorado Avalanche6Washington Capitals318,5732:38
+2019-10-15Philadelphia Flyers1Calgary Flames317,7712:32
+2019-10-15Carolina Hurricanes2Los Angeles Kings014,2192:31
+2019-10-15Tampa Bay Lightning3Montreal Canadiens120,4062:29
+2019-10-15Minnesota Wild2Toronto Maple Leafs419,1492:26
+2019-10-15Detroit Red Wings1Vancouver Canucks518,183
+2019-10-15Nashville Predators5Vegas Golden Knights218,1882:31
+2019-10-15Arizona Coyotes4Winnipeg Jets214,7642:24
+2019-10-16Buffalo Sabres2Anaheim Ducks515,1933:00
+2019-10-16Dallas Stars2Columbus Blue Jackets314,6832:29
+2019-10-16Philadelphia Flyers3Edmonton Oilers617,1072:33
+2019-10-16Colorado Avalanche2Pittsburgh Penguins3OT18,4582:45
+2019-10-16Carolina Hurricanes2San Jose Sharks515,1432:31
+2019-10-16Toronto Maple Leafs3Washington Capitals418,5732:24
+2019-10-17Nashville Predators2Arizona Coyotes513,5212:31
+2019-10-17Tampa Bay Lightning4Boston Bruins3SO17,1932:53
+2019-10-17Detroit Red Wings1Calgary Flames518,2322:22
+2019-10-17Buffalo Sabres3Los Angeles Kings017,6052:25
+2019-10-17Minnesota Wild0Montreal Canadiens420,4192:29
+2019-10-17New York Rangers2New Jersey Devils516,5143:21
+2019-10-17Vancouver Canucks4St. Louis Blues3SO18,0962:43
+2019-10-17Ottawa Senators2Vegas Golden Knights3SO18,1712:54
+2019-10-17New York Islanders3Winnipeg Jets115,0632:28
+2019-10-18Carolina Hurricanes2Anaheim Ducks414,7552:46
+2019-10-18Columbus Blue Jackets2Chicago Blackhawks3OT21,5182:23
+2019-10-18Detroit Red Wings1Edmonton Oilers217,4202:19
+2019-10-18Colorado Avalanche5Florida Panthers4OT13,3822:29
+2019-10-18Dallas Stars2Pittsburgh Penguins418,4822:23
+2019-10-18New York Rangers2Washington Capitals518,5732:27
+2019-10-19Ottawa Senators2Arizona Coyotes517,1252:27
+2019-10-19New York Islanders3Columbus Blue Jackets2OT15,2762:27
+2019-10-19Calgary Flames1Los Angeles Kings418,2302:32
+2019-10-19Vancouver Canucks0New Jersey Devils113,8182:49
+2019-10-19Florida Panthers3Nashville Predators2SO17,5342:33
+2019-10-19Dallas Stars4Philadelphia Flyers118,0032:28
+2019-10-19Vegas Golden Knights3Pittsburgh Penguins018,6102:29
+2019-10-19Buffalo Sabres4San Jose Sharks317,5622:26
+2019-10-19Montreal Canadiens5St. Louis Blues218,0962:24
+2019-10-19Colorado Avalanche6Tampa Bay Lightning219,0922:34
+2019-10-19Boston Bruins3Toronto Maple Leafs4OT19,3942:29
+2019-10-20Calgary Flames2Anaheim Ducks115,6902:22
+2019-10-20Washington Capitals5Chicago Blackhawks321,1872:33
+2019-10-20Montreal Canadiens3Minnesota Wild417,3442:31
+2019-10-20Vancouver Canucks3New York Rangers217,0302:17
+2019-10-20Edmonton Oilers0Winnipeg Jets1SO15,3212:31
+2019-10-21Ottawa Senators1Dallas Stars217,8962:27
+2019-10-21Vegas Golden Knights2Philadelphia Flyers616,7802:21
+2019-10-21Colorado Avalanche1St. Louis Blues318,0962:31
+2019-10-21Columbus Blue Jackets4Toronto Maple Leafs3OT18,8982:33
+2019-10-22Toronto Maple Leafs2Boston Bruins417,1932:44
+2019-10-22San Jose Sharks3Buffalo Sabres4OT15,8762:32
+2019-10-22Washington Capitals5Calgary Flames318,0022:24
+2019-10-22Vegas Golden Knights2Chicago Blackhawks1SO21,1722:39
+2019-10-22Vancouver Canucks5Detroit Red Wings218,4552:27
+2019-10-22Pittsburgh Penguins2Florida Panthers412,7382:14
+2019-10-22Edmonton Oilers0Minnesota Wild317,1892:26
+2019-10-22Anaheim Ducks1Nashville Predators617,4242:27
+2019-10-22Arizona Coyotes3New York Rangers2OT17,4352:25
+2019-10-22Los Angeles Kings3Winnipeg Jets215,3252:33
+2019-10-23Detroit Red Wings2Ottawa Senators511,0262:35
+2019-10-23Pittsburgh Penguins2Tampa Bay Lightning319,0922:39
+2019-10-24Carolina Hurricanes3Columbus Blue Jackets4OT15,3982:26
+2019-10-24Florida Panthers5Calgary Flames6SO18,0112:39
+2019-10-24Philadelphia Flyers4Chicago Blackhawks121,3152:24
+2019-10-24Anaheim Ducks1Dallas Stars217,7542:29
+2019-10-24Washington Capitals3Edmonton Oilers4OT17,1442:45
+2019-10-24San Jose Sharks4Montreal Canadiens221,0522:36
+2019-10-24Minnesota Wild0Nashville Predators417,3862:21
+2019-10-24Arizona Coyotes2New York Islanders410,7522:27
+2019-10-24Buffalo Sabres2New York Rangers616,9132:19
+2019-10-24Los Angeles Kings2St. Louis Blues518,0962:24
+2019-10-25Buffalo Sabres2Detroit Red Wings018,6162:27
+2019-10-25Arizona Coyotes5New Jersey Devils314,7242:30
+2019-10-25New York Islanders4Ottawa Senators211,1892:38
+2019-10-25San Jose Sharks1Toronto Maple Leafs419,1022:46
+2019-10-25Washington Capitals6Vancouver Canucks5SO18,8712:40
+2019-10-25Colorado Avalanche6Vegas Golden Knights118,4202:18
+2019-10-26St. Louis Blues0Boston Bruins317,1932:29
+2019-10-26Chicago Blackhawks0Carolina Hurricanes415,7382:16
+2019-10-26Anaheim Ducks5Colorado Avalanche218,0392:40
+2019-10-26Pittsburgh Penguins3Dallas Stars018,5322:31
+2019-10-26Los Angeles Kings1Minnesota Wild517,4442:21
+2019-10-26Toronto Maple Leafs2Montreal Canadiens521,3022:28
+2019-10-26Columbus Blue Jackets4Philadelphia Flyers717,8402:29
+2019-10-26Nashville Predators3Tampa Bay Lightning2OT19,0922:35
+2019-10-26Calgary Flames1Winnipeg Jets2OT33,5182:45
+2019-10-27Los Angeles Kings1Chicago Blackhawks521,3342:22
+2019-10-27St. Louis Blues5Detroit Red Wings4OT18,3312:23
+2019-10-27Florida Panthers6Edmonton Oilers217,2782:24
+2019-10-27Philadelphia Flyers3New York Islanders512,0552:27
+2019-10-27Boston Bruins7New York Rangers417,1442:37
+2019-10-27San Jose Sharks2Ottawa Senators59,7402:24
+2019-10-27Anaheim Ducks2Vegas Golden Knights518,1102:40
+2019-10-28Arizona Coyotes3Buffalo Sabres2SO15,3582:36
+2019-10-28Florida Panthers2Vancouver Canucks717,8642:20
+2019-10-29Winnipeg Jets4Anaheim Ducks715,1712:34
+2019-10-29San Jose Sharks1Boston Bruins517,1933:17
+2019-10-29Calgary Flames1Carolina Hurricanes213,8642:33
+2019-10-29Minnesota Wild3Dallas Stars617,7562:30
+2019-10-29Edmonton Oilers1Detroit Red Wings319,5152:28
+2019-10-29Chicago Blackhawks0Nashville Predators317,2592:26
+2019-10-29Tampa Bay Lightning1New York Rangers417,1962:37
+2019-10-29Philadelphia Flyers1Pittsburgh Penguins718,5602:30
+2019-10-29Washington Capitals4Toronto Maple Leafs3OT19,2583:05
+2019-10-30Montreal Canadiens4Arizona Coyotes114,0042:27
+2019-10-30Edmonton Oilers4Columbus Blue Jackets114,1932:20
+2019-10-30Florida Panthers4Colorado Avalanche3OT16,0222:51
+2019-10-30Vancouver Canucks5Los Angeles Kings315,5652:30
+2019-10-30Tampa Bay Lightning7New Jersey Devils6OT13,1522:33
+2019-10-30Minnesota Wild1St. Louis Blues218,0962:27
+2019-10-31Calgary Flames6Nashville Predators5OT17,3512:33
+2019-10-31Montreal Canadiens5Vegas Golden Knights4OT18,0352:32
+2019-11-01Vancouver Canucks1Anaheim Ducks2OT15,1732:31
+2019-11-01Detroit Red Wings3Carolina Hurricanes715,3832:27
+2019-11-01Dallas Stars2Colorado Avalanche118,0202:35
+2019-11-01Philadelphia Flyers4New Jersey Devils3SO14,6242:58
+2019-11-01Tampa Bay Lightning2New York Islanders512,0432:27
+2019-11-01Winnipeg Jets3San Jose Sharks215,1172:27
+2019-11-01Columbus Blue Jackets3St. Louis Blues4OT18,0962:33
+2019-11-01Buffalo Sabres1Washington Capitals618,5732:42
+2019-11-02Colorado Avalanche0Arizona Coyotes317,1252:23
+2019-11-02Ottawa Senators2Boston Bruins517,1933:48
+2019-11-02New York Islanders1Buffalo Sabres019,0702:16
+2019-11-02New Jersey Devils5Carolina Hurricanes315,0792:37
+2019-11-02Calgary Flames3Columbus Blue Jackets015,6182:23
+2019-11-02Montreal Canadiens1Dallas Stars418,5322:34
+2019-11-02Detroit Red Wings0Florida Panthers414,4112:22
+2019-11-02Chicago Blackhawks3Los Angeles Kings4OT18,2302:38
+2019-11-02St. Louis Blues4Minnesota Wild3OT18,2082:34
+2019-11-02New York Rangers2Nashville Predators117,3712:17
+2019-11-02Toronto Maple Leafs4Philadelphia Flyers3SO18,4412:40
+2019-11-02Edmonton Oilers2Pittsburgh Penguins1OT18,6182:41
+2019-11-02Vancouver Canucks5San Jose Sharks216,4802:28
+2019-11-02Winnipeg Jets4Vegas Golden Knights3OT18,2762:41
+2019-11-03Chicago Blackhawks3Anaheim Ducks2OT15,5762:35
+2019-11-03Calgary Flames2Washington Capitals418,5732:29
+2019-11-04Pittsburgh Penguins4Boston Bruins617,1932:33
+2019-11-04Nashville Predators6Detroit Red Wings118,5262:27
+2019-11-04Arizona Coyotes3Edmonton Oilers2OT17,1052:29
+2019-11-04Ottawa Senators6New York Rangers216,3022:37
+2019-11-05Minnesota Wild4Anaheim Ducks215,5262:24
+2019-11-05Vegas Golden Knights2Columbus Blue Jackets115,4352:29
+2019-11-05Arizona Coyotes3Calgary Flames4OT17,8242:39
+2019-11-05Colorado Avalanche1Dallas Stars418,1082:34
+2019-11-05Boston Bruins4Montreal Canadiens521,3022:33
+2019-11-05Ottawa Senators1New York Islanders411,2122:34
+2019-11-05Carolina Hurricanes1Philadelphia Flyers416,1722:25
+2019-11-05Chicago Blackhawks2San Jose Sharks416,0872:21
+2019-11-05Los Angeles Kings1Toronto Maple Leafs319,1952:25
+2019-11-05St. Louis Blues2Vancouver Canucks1OT18,7892:23
+2019-11-05New Jersey Devils2Winnipeg Jets1SO15,3252:41
+2019-11-06St. Louis Blues5Edmonton Oilers217,0682:30
+2019-11-06Detroit Red Wings1New York Rangers516,8042:26
+2019-11-07Columbus Blue Jackets3Arizona Coyotes212,1152:21
+2019-11-07New York Rangers4Carolina Hurricanes213,8782:22
+2019-11-07New Jersey Devils2Calgary Flames518,8512:31
+2019-11-07Vancouver Canucks2Chicago Blackhawks521,4182:28
+2019-11-07Nashville Predators4Colorado Avalanche917,4922:32
+2019-11-07Washington Capitals5Florida Panthers4OT14,0852:28
+2019-11-07Pittsburgh Penguins4New York Islanders3OT12,6132:25
+2019-11-07Los Angeles Kings2Ottawa Senators3OT9,9292:32
+2019-11-07Montreal Canadiens2Philadelphia Flyers3OT16,7882:28
+2019-11-07Minnesota Wild5San Jose Sharks615,7642:33
+2019-11-07Vegas Golden Knights1Toronto Maple Leafs2OT19,2182:34
+2019-11-08Tampa Bay Lightning3Buffalo Sabres213,2302:33
+2019-11-08Boston Bruins2Detroit Red Wings419,5152:43
+2019-11-08New Jersey Devils0Edmonton Oilers417,2402:24
+2019-11-08Vancouver Canucks1Winnipeg Jets415,3252:19
+2019-11-09Minnesota Wild4Arizona Coyotes314,4282:25
+2019-11-09St. Louis Blues3Calgary Flames2OT19,2892:34
+2019-11-09Columbus Blue Jackets2Colorado Avalanche418,0702:25
+2019-11-09Los Angeles Kings2Montreal Canadiens321,3022:28
+2019-11-09Florida Panthers1New York Islanders213,1002:43
+2019-11-09Carolina Hurricanes1Ottawa Senators412,2762:33
+2019-11-09Chicago Blackhawks2Pittsburgh Penguins3SO18,6532:36
+2019-11-09Nashville Predators1San Jose Sharks2SO17,5622:36
+2019-11-09Buffalo Sabres3Tampa Bay Lightning513,3392:42
+2019-11-09Philadelphia Flyers3Toronto Maple Leafs2SO19,2792:55
+2019-11-09Vegas Golden Knights2Washington Capitals518,5732:37
+2019-11-10Edmonton Oilers6Anaheim Ducks216,4632:24
+2019-11-10Philadelphia Flyers3Boston Bruins2SO17,1932:50
+2019-11-10Toronto Maple Leafs4Chicago Blackhawks521,5982:47
+2019-11-10Vegas Golden Knights2Detroit Red Wings319,0572:24
+2019-11-10Florida Panthers6New York Rangers5SO17,4642:38
+2019-11-10New Jersey Devils2Vancouver Canucks118,8712:20
+2019-11-10Dallas Stars2Winnipeg Jets3OT15,3232:30
+2019-11-11Ottawa Senators2Carolina Hurricanes812,3562:43
+2019-11-11Arizona Coyotes4Washington Capitals3SO18,5732:42
+2019-11-12Detroit Red Wings4Anaheim Ducks3OT15,0462:48
+2019-11-12Florida Panthers5Boston Bruins4SO17,8502:47
+2019-11-12Minnesota Wild1Los Angeles Kings316,0992:26
+2019-11-12Columbus Blue Jackets2Montreal Canadiens3SO20,7582:44
+2019-11-12Pittsburgh Penguins2New York Rangers3OT16,9042:23
+2019-11-12Edmonton Oilers3San Jose Sharks615,5672:24
+2019-11-12Arizona Coyotes3St. Louis Blues2SO18,0962:38
+2019-11-12Nashville Predators3Vancouver Canucks518,2332:25
+2019-11-12Colorado Avalanche4Winnipeg Jets015,3252:23
+2019-11-13Dallas Stars3Calgary Flames118,2572:25
+2019-11-13Ottawa Senators4New Jersey Devils213,4382:55
+2019-11-13Toronto Maple Leafs4New York Islanders513,2932:17
+2019-11-13Washington Capitals2Philadelphia Flyers1SO18,1592:40
+2019-11-13Chicago Blackhawks5Vegas Golden Knights318,3242:32
+2019-11-14San Jose Sharks5Anaheim Ducks316,0072:26
+2019-11-14Carolina Hurricanes5Buffalo Sabres4OT16,6032:49
+2019-11-14Colorado Avalanche2Edmonton Oilers617,1882:32
+2019-11-14Winnipeg Jets4Florida Panthers312,1902:20
+2019-11-14Detroit Red Wings2Los Angeles Kings3OT16,8712:26
+2019-11-14Arizona Coyotes2Minnesota Wild317,0792:31
+2019-11-14New York Rangers3Tampa Bay Lightning919,0922:41
+2019-11-14Dallas Stars4Vancouver Canucks218,6422:25
+2019-11-15St. Louis Blues2Columbus Blue Jackets3OT18,5052:36
+2019-11-15Pittsburgh Penguins1New Jersey Devils216,5142:29
+2019-11-15Philadelphia Flyers1Ottawa Senators210,6642:21
+2019-11-15Boston Bruins4Toronto Maple Leafs219,4342:32
+2019-11-15Montreal Canadiens5Washington Capitals218,5732:30
+2019-11-16Calgary Flames0Arizona Coyotes313,5342:27
+2019-11-16Washington Capitals3Boston Bruins2SO17,8502:35
+2019-11-16Ottawa Senators2Buffalo Sabres418,5552:29
+2019-11-16Dallas Stars5Edmonton Oilers4OT17,3462:35
+2019-11-16New York Rangers3Florida Panthers416,5122:29
+2019-11-16Vegas Golden Knights3Los Angeles Kings417,2822:27
+2019-11-16Carolina Hurricanes4Minnesota Wild3OT17,1012:32
+2019-11-16New Jersey Devils4Montreal Canadiens3OT21,0162:49
+2019-11-16Chicago Blackhawks7Nashville Predators217,3932:20
+2019-11-16New York Islanders4Philadelphia Flyers3SO19,0232:35
+2019-11-16Toronto Maple Leafs1Pittsburgh Penguins618,5872:26
+2019-11-16Detroit Red Wings3San Jose Sharks4SO17,5622:29
+2019-11-16Anaheim Ducks4St. Louis Blues118,0962:25
+2019-11-16Winnipeg Jets4Tampa Bay Lightning319,0922:29
+2019-11-16Colorado Avalanche5Vancouver Canucks4OT18,4092:30
+2019-11-17Buffalo Sabres1Chicago Blackhawks421,3342:26
+2019-11-17Calgary Flames0Vegas Golden Knights618,0832:36
+2019-11-18Los Angeles Kings0Arizona Coyotes312,2102:19
+2019-11-18Anaheim Ducks2Washington Capitals518,5732:34
+2019-11-19Minnesota Wild4Buffalo Sabres115,5222:28
+2019-11-19Montreal Canadiens2Columbus Blue Jackets514,1182:24
+2019-11-19Colorado Avalanche3Calgary Flames218,6982:21
+2019-11-19Carolina Hurricanes4Chicago Blackhawks221,3252:29
+2019-11-19Vancouver Canucks1Dallas Stars618,1982:31
+2019-11-19Ottawa Senators4Detroit Red Wings319,1562:35
+2019-11-19Philadelphia Flyers2Florida Panthers511,5152:24
+2019-11-19Boston Bruins5New Jersey Devils115,0612:21
+2019-11-19Winnipeg Jets2Nashville Predators117,1652:23
+2019-11-19New York Islanders5Pittsburgh Penguins4OT18,4112:41
+2019-11-19Edmonton Oilers5San Jose Sharks216,1472:22
+2019-11-19Tampa Bay Lightning1St. Louis Blues318,0962:34
+2019-11-19Toronto Maple Leafs2Vegas Golden Knights418,2922:27
+2019-11-20Ottawa Senators2Montreal Canadiens1OT20,8622:29
+2019-11-20Washington Capitals1New York Rangers417,2392:26
+2019-11-21Toronto Maple Leafs3Arizona Coyotes112,4952:23
+2019-11-21Buffalo Sabres2Boston Bruins317,8502:29
+2019-11-21Philadelphia Flyers5Carolina Hurricanes314,7342:31
+2019-11-21Detroit Red Wings4Columbus Blue Jackets514,4172:39
+2019-11-21Tampa Bay Lightning4Chicago Blackhawks221,3362:23
+2019-11-21Winnipeg Jets3Dallas Stars518,1332:32
+2019-11-21Anaheim Ducks4Florida Panthers5OT11,3162:31
+2019-11-21Edmonton Oilers1Los Angeles Kings515,5392:25
+2019-11-21Colorado Avalanche2Minnesota Wild317,5742:31
+2019-11-21Vancouver Canucks6Nashville Predators317,1682:45
+2019-11-21Pittsburgh Penguins3New York Islanders4OT13,2122:46
+2019-11-21Calgary Flames0St. Louis Blues518,0962:24
+2019-11-21San Jose Sharks2Vegas Golden Knights1OT18,2752:34
+2019-11-22New York Rangers1Ottawa Senators412,3492:25
+2019-11-22New Jersey Devils1Pittsburgh Penguins418,4202:31
+2019-11-23Minnesota Wild4Boston Bruins5OT17,8502:46
+2019-11-23Florida Panthers2Carolina Hurricanes418,1592:22
+2019-11-23Toronto Maple Leafs5Colorado Avalanche318,1372:32
+2019-11-23Chicago Blackhawks1Dallas Stars2SO18,5322:46
+2019-11-23Arizona Coyotes3Los Angeles Kings215,9122:29
+2019-11-23New York Rangers6Montreal Canadiens521,3022:29
+2019-11-23Detroit Red Wings1New Jersey Devils516,5142:28
+2019-11-23Calgary Flames3Philadelphia Flyers2SO17,1982:47
+2019-11-23New York Islanders1San Jose Sharks2OT16,4712:24
+2019-11-23Nashville Predators4St. Louis Blues218,0962:29
+2019-11-23Anaheim Ducks2Tampa Bay Lightning619,0922:33
+2019-11-23Edmonton Oilers4Vegas Golden Knights218,3192:28
+2019-11-23Columbus Blue Jackets3Winnipeg Jets415,3252:28
+2019-11-23Vancouver Canucks2Washington Capitals1SO18,5732:40
+2019-11-24Edmonton Oilers4Arizona Coyotes3SO12,9082:35
+2019-11-24Carolina Hurricanes2Detroit Red Wings018,7262:25
+2019-11-24Buffalo Sabres5Florida Panthers214,4432:21
+2019-11-25New York Islanders0Anaheim Ducks316,2692:28
+2019-11-25Ottawa Senators0Columbus Blue Jackets114,7302:22
+2019-11-25Vegas Golden Knights2Dallas Stars418,5322:24
+2019-11-25San Jose Sharks4Los Angeles Kings3OT16,9272:29
+2019-11-25St. Louis Blues2Nashville Predators3SO17,1682:39
+2019-11-25Minnesota Wild2New York Rangers3OT18,0062:31
+2019-11-25Vancouver Canucks1Philadelphia Flyers217,0832:21
+2019-11-25Calgary Flames2Pittsburgh Penguins3OT18,4372:33
+2019-11-25Buffalo Sabres2Tampa Bay Lightning519,0922:24
+2019-11-26Dallas Stars0Chicago Blackhawks321,2102:21
+2019-11-26Boston Bruins8Montreal Canadiens121,3022:27
+2019-11-26Minnesota Wild3New Jersey Devils214,6272:34
+2019-11-27Anaheim Ducks3Arizona Coyotes4SO14,7412:37
+2019-11-27Calgary Flames3Buffalo Sabres2OT17,4852:25
+2019-11-27Philadelphia Flyers3Columbus Blue Jackets214,9752:20
+2019-11-27Edmonton Oilers1Colorado Avalanche418,0212:27
+2019-11-27Toronto Maple Leafs6Detroit Red Wings019,5152:26
+2019-11-27New York Islanders1Los Angeles Kings416,0822:26
+2019-11-27Vegas Golden Knights4Nashville Predators3OT17,3262:28
+2019-11-27Carolina Hurricanes2New York Rangers317,2692:32
+2019-11-27Boston Bruins2Ottawa Senators113,3362:17
+2019-11-27Vancouver Canucks6Pittsburgh Penguins818,4652:40
+2019-11-27Winnipeg Jets5San Jose Sharks116,0082:25
+2019-11-27St. Louis Blues4Tampa Bay Lightning319,0922:28
+2019-11-27Florida Panthers3Washington Capitals418,5732:23
+2019-11-28New Jersey Devils6Montreal Canadiens420,8762:35
+2019-11-29Winnipeg Jets3Anaheim Ducks016,3012:24
+2019-11-29New York Rangers2Boston Bruins3OT17,8502:28
+2019-11-29Toronto Maple Leafs4Buffalo Sabres619,0702:28
+2019-11-29Nashville Predators3Carolina Hurricanes018,6802:25
+2019-11-29Pittsburgh Penguins2Columbus Blue Jackets517,4022:30
+2019-11-29Colorado Avalanche5Chicago Blackhawks221,8222:26
+2019-11-29St. Louis Blues3Dallas Stars118,5322:28
+2019-11-29Ottawa Senators2Minnesota Wild717,1122:34
+2019-11-29Detroit Red Wings1Philadelphia Flyers618,5662:23
+2019-11-29Los Angeles Kings1San Jose Sharks416,8932:17
+2019-11-29Arizona Coyotes1Vegas Golden Knights2SO18,3262:43
+2019-11-29Tampa Bay Lightning3Washington Capitals4OT18,5732:41
+2019-11-30San Jose Sharks4Arizona Coyotes215,4852:16
+2019-11-30Ottawa Senators1Calgary Flames318,9192:27
+2019-11-30Chicago Blackhawks3Colorado Avalanche718,0152:30
+2019-11-30Washington Capitals5Detroit Red Wings219,1902:26
+2019-11-30Vancouver Canucks5Edmonton Oilers218,0352:25
+2019-11-30Nashville Predators0Florida Panthers314,2852:22
+2019-11-30Winnipeg Jets1Los Angeles Kings217,2492:26
+2019-11-30Philadelphia Flyers4Montreal Canadiens3OT21,2132:31
+2019-11-30New York Rangers4New Jersey Devils016,5142:30
+2019-11-30Columbus Blue Jackets0New York Islanders213,4332:13
+2019-11-30Pittsburgh Penguins2St. Louis Blues518,0962:19
+2019-11-30Carolina Hurricanes3Tampa Bay Lightning219,0922:29
+2019-11-30Buffalo Sabres1Toronto Maple Leafs2OT19,2502:29
+2019-12-01Montreal Canadiens1Boston Bruins317,8502:31
+2019-12-01Dallas Stars2Minnesota Wild3SO17,0962:35
+2019-12-01Edmonton Oilers3Vancouver Canucks218,8712:22
+2019-12-02Los Angeles Kings2Anaheim Ducks415,4342:28
+2019-12-02New Jersey Devils1Buffalo Sabres715,4222:25
+2019-12-02St. Louis Blues4Chicago Blackhawks021,2042:17
+2019-12-02New York Islanders4Detroit Red Wings117,5102:22
+2019-12-02Vegas Golden Knights4New York Rangers116,3252:18
+2019-12-03Carolina Hurricanes0Boston Bruins217,8502:26
+2019-12-03Arizona Coyotes4Columbus Blue Jackets214,4552:23
+2019-12-03Minnesota Wild4Florida Panthers210,1672:23
+2019-12-03New York Islanders2Montreal Canadiens420,4402:32
+2019-12-03Vegas Golden Knights4New Jersey Devils312,8312:29
+2019-12-03Tampa Bay Lightning3Nashville Predators2OT17,1632:38
+2019-12-03Toronto Maple Leafs1Philadelphia Flyers615,8112:15
+2019-12-03Washington Capitals5San Jose Sharks215,7622:15
+2019-12-03Ottawa Senators2Vancouver Canucks518,5592:24
+2019-12-03Dallas Stars1Winnipeg Jets515,3252:32
+2019-12-04Ottawa Senators5Edmonton Oilers217,1622:28
+2019-12-04Washington Capitals3Los Angeles Kings116,1022:27
+2019-12-04St. Louis Blues0Pittsburgh Penguins318,4112:22
+2019-12-04Colorado Avalanche3Toronto Maple Leafs119,3512:20
+2019-12-05Chicago Blackhawks4Boston Bruins3OT17,8502:32
+2019-12-05San Jose Sharks2Carolina Hurricanes3SO14,2752:41
+2019-12-05New York Rangers3Columbus Blue Jackets215,7852:25
+2019-12-05Buffalo Sabres3Calgary Flames418,0852:27
+2019-12-05Winnipeg Jets2Dallas Stars3OT17,9832:35
+2019-12-05Colorado Avalanche3Montreal Canadiens221,3022:31
+2019-12-05Vegas Golden Knights2New York Islanders3OT13,1172:29
+2019-12-05Arizona Coyotes3Philadelphia Flyers117,4402:27
+2019-12-05Minnesota Wild5Tampa Bay Lightning419,0922:23
+2019-12-06Washington Capitals3Anaheim Ducks215,9452:38
+2019-12-06Los Angeles Kings1Edmonton Oilers217,0442:26
+2019-12-06Chicago Blackhawks2New Jersey Devils1SO15,2732:37
+2019-12-06Montreal Canadiens2New York Rangers117,3542:21
+2019-12-06Arizona Coyotes0Pittsburgh Penguins218,4322:25
+2019-12-07Colorado Avalanche4Boston Bruins117,8502:52
+2019-12-07Minnesota Wild2Carolina Hurricanes618,6802:27
+2019-12-07Los Angeles Kings3Calgary Flames419,0802:27
+2019-12-07New York Islanders1Dallas Stars318,5322:22
+2019-12-07Pittsburgh Penguins5Detroit Red Wings319,5152:29
+2019-12-07Columbus Blue Jackets1Florida Panthers411,6402:22
+2019-12-07New Jersey Devils4Nashville Predators617,4182:29
+2019-12-07Ottawa Senators3Philadelphia Flyers418,0312:29
+2019-12-07Toronto Maple Leafs5St. Louis Blues218,0962:24
+2019-12-07San Jose Sharks1Tampa Bay Lightning719,0922:28
+2019-12-07Buffalo Sabres5Vancouver Canucks6OT18,8712:33
+2019-12-08Arizona Coyotes4Chicago Blackhawks3SO21,2322:33
+2019-12-08Buffalo Sabres3Edmonton Oilers2OT17,2272:22
+2019-12-08San Jose Sharks1Florida Panthers511,3402:17
+2019-12-08New York Rangers5Vegas Golden Knights018,2362:35
+2019-12-08Anaheim Ducks2Winnipeg Jets315,3252:27
+2019-12-09Calgary Flames5Colorado Avalanche4OT17,5882:34
+2019-12-09Boston Bruins2Ottawa Senators513,8942:34
+2019-12-09New York Islanders5Tampa Bay Lightning119,0922:21
+2019-12-09Columbus Blue Jackets5Washington Capitals218,5732:31
+2019-12-10Calgary Flames5Arizona Coyotes211,1982:26
+2019-12-10St. Louis Blues2Buffalo Sabres516,5212:21
+2019-12-10New Jersey Devils0Dallas Stars218,1342:27
+2019-12-10Carolina Hurricanes6Edmonton Oilers316,1752:31
+2019-12-10Tampa Bay Lightning2Florida Panthers110,6852:31
+2019-12-10New York Rangers1Los Angeles Kings317,8262:26
+2019-12-10Anaheim Ducks3Minnesota Wild2SO17,1542:46
+2019-12-10San Jose Sharks1Nashville Predators317,1602:33
+2019-12-10Montreal Canadiens4Pittsburgh Penguins118,4222:25
+2019-12-10Toronto Maple Leafs4Vancouver Canucks118,2902:17
+2019-12-10Chicago Blackhawks1Vegas Golden Knights518,3192:30
+2019-12-10Detroit Red Wings1Winnipeg Jets515,3252:29
+2019-12-11Philadelphia Flyers1Colorado Avalanche317,9052:26
+2019-12-11Ottawa Senators2Montreal Canadiens3OT21,0552:34
+2019-12-11Boston Bruins2Washington Capitals318,5732:31
+2019-12-12Los Angeles Kings2Anaheim Ducks116,0082:26
+2019-12-12Chicago Blackhawks2Arizona Coyotes513,1502:19
+2019-12-12Nashville Predators3Buffalo Sabres417,2112:27
+2019-12-12Toronto Maple Leafs2Calgary Flames419,2892:20
+2019-12-12Winnipeg Jets2Detroit Red Wings518,8322:27
+2019-12-12New York Islanders3Florida Panthers112,6092:29
+2019-12-12Edmonton Oilers5Minnesota Wild617,2712:30
+2019-12-12Columbus Blue Jackets0Pittsburgh Penguins1OT18,4152:24
+2019-12-12New York Rangers6San Jose Sharks316,3812:19
+2019-12-12Vegas Golden Knights2St. Louis Blues418,0962:15
+2019-12-12Boston Bruins2Tampa Bay Lightning319,0922:32
+2019-12-12Carolina Hurricanes0Vancouver Canucks1OT18,6262:28
+2019-12-13New Jersey Devils1Colorado Avalanche318,0342:22
+2019-12-13Vegas Golden Knights3Dallas Stars2OT18,5322:29
+2019-12-14New York Rangers3Anaheim Ducks4SO14,7072:38
+2019-12-14New Jersey Devils2Arizona Coyotes117,1252:33
+2019-12-14Carolina Hurricanes4Calgary Flames018,8532:29
+2019-12-14Toronto Maple Leafs4Edmonton Oilers118,3472:36
+2019-12-14Boston Bruins4Florida Panthers215,1572:35
+2019-12-14Philadelphia Flyers1Minnesota Wild417,1402:23
+2019-12-14Detroit Red Wings2Montreal Canadiens121,3022:28
+2019-12-14Dallas Stars4Nashville Predators117,5862:28
+2019-12-14Buffalo Sabres2New York Islanders3OT13,7952:28
+2019-12-14Columbus Blue Jackets3Ottawa Senators4OT11,0202:36
+2019-12-14Los Angeles Kings4Pittsburgh Penguins5SO18,5812:47
+2019-12-14Vancouver Canucks2San Jose Sharks416,2422:25
+2019-12-14Chicago Blackhawks3St. Louis Blues418,0962:21
+2019-12-14Washington Capitals5Tampa Bay Lightning219,0922:31
+2019-12-15Minnesota Wild3Chicago Blackhawks521,5132:38
+2019-12-15Los Angeles Kings4Detroit Red Wings218,5402:21
+2019-12-15Vancouver Canucks3Vegas Golden Knights618,0662:46
+2019-12-15Philadelphia Flyers3Winnipeg Jets715,3252:26
+2019-12-16Washington Capitals0Columbus Blue Jackets316,6022:34
+2019-12-16Edmonton Oilers2Dallas Stars118,0962:16
+2019-12-16Ottawa Senators1Florida Panthers610,4482:31
+2019-12-16Nashville Predators5New York Rangers217,2862:27
+2019-12-16Colorado Avalanche2St. Louis Blues518,0962:24
+2019-12-17Los Angeles Kings4Boston Bruins3OT17,8502:43
+2019-12-17Pittsburgh Penguins4Calgary Flames118,4122:22
+2019-12-17Columbus Blue Jackets5Detroit Red Wings317,6392:26
+2019-12-17Nashville Predators8New York Islanders312,1142:34
+2019-12-17Anaheim Ducks1Philadelphia Flyers418,4492:27
+2019-12-17Arizona Coyotes3San Jose Sharks216,0762:23
+2019-12-17Ottawa Senators3Tampa Bay Lightning4OT19,0922:31
+2019-12-17Buffalo Sabres3Toronto Maple Leafs519,3652:20
+2019-12-17Montreal Canadiens3Vancouver Canucks118,7882:29
+2019-12-17Minnesota Wild2Vegas Golden Knights318,2202:29
+2019-12-17Carolina Hurricanes6Winnipeg Jets315,3252:28
+2019-12-18Colorado Avalanche4Chicago Blackhawks121,4812:29
+2019-12-18Anaheim Ducks1New Jersey Devils313,9362:23
+2019-12-18Edmonton Oilers1St. Louis Blues218,0962:27
+2019-12-19Minnesota Wild8Arizona Coyotes515,5822:36
+2019-12-19New York Islanders3Boston Bruins2SO17,8502:37
+2019-12-19Los Angeles Kings2Columbus Blue Jackets3OT17,1172:34
+2019-12-19Montreal Canadiens4Calgary Flames3OT19,1722:41
+2019-12-19Carolina Hurricanes3Colorado Avalanche118,0152:30
+2019-12-19Nashville Predators4Ottawa Senators5OT10,4072:40
+2019-12-19Buffalo Sabres1Philadelphia Flyers618,1242:22
+2019-12-19Dallas Stars4Tampa Bay Lightning3OT19,0922:39
+2019-12-19Vegas Golden Knights4Vancouver Canucks5OT18,8712:36
+2019-12-19Chicago Blackhawks4Winnipeg Jets115,3252:22
+2019-12-20Pittsburgh Penguins5Edmonton Oilers218,3472:21
+2019-12-20Dallas Stars4Florida Panthers714,0402:30
+2019-12-20Washington Capitals6New Jersey Devils315,0212:29
+2019-12-20Toronto Maple Leafs6New York Rangers316,9092:24
+2019-12-21Nashville Predators4Boston Bruins3OT17,8502:41
+2019-12-21Los Angeles Kings2Buffalo Sabres317,4842:26
+2019-12-21Florida Panthers4Carolina Hurricanes218,2242:30
+2019-12-21New Jersey Devils1Columbus Blue Jackets517,1882:28
+2019-12-21Chicago Blackhawks5Colorado Avalanche318,0562:28
+2019-12-21Montreal Canadiens3Edmonton Oilers418,3472:27
+2019-12-21Winnipeg Jets6Minnesota Wild017,3192:23
+2019-12-21Anaheim Ducks6New York Islanders5SO13,9172:44
+2019-12-21Philadelphia Flyers5Ottawa Senators4SO11,2032:39
+2019-12-21St. Louis Blues5San Jose Sharks216,0652:23
+2019-12-21Detroit Red Wings1Toronto Maple Leafs419,0802:24
+2019-12-21Pittsburgh Penguins1Vancouver Canucks418,2852:29
+2019-12-21Tampa Bay Lightning1Washington Capitals318,5732:33
+2019-12-22Calgary Flames5Dallas Stars118,5322:32
+2019-12-22Arizona Coyotes5Detroit Red Wings219,5152:24
+2019-12-22Anaheim Ducks1New York Rangers517,4652:31
+2019-12-22Vegas Golden Knights3San Jose Sharks117,0152:25
+2019-12-23Washington Capitals3Boston Bruins717,8502:58
+2019-12-23New Jersey Devils7Chicago Blackhawks121,5592:28
+2019-12-23St. Louis Blues4Los Angeles Kings118,2302:23
+2019-12-23Calgary Flames0Minnesota Wild317,5962:24
+2019-12-23Arizona Coyotes2Nashville Predators317,6972:23
+2019-12-23Columbus Blue Jackets3New York Islanders213,9172:24
+2019-12-23Buffalo Sabres1Ottawa Senators311,8382:30
+2019-12-23New York Rangers1Philadelphia Flyers519,7762:45
+2019-12-23Florida Panthers1Tampa Bay Lightning619,0922:25
+2019-12-23Carolina Hurricanes6Toronto Maple Leafs819,1762:29
+2019-12-23Edmonton Oilers2Vancouver Canucks418,8512:22
+2019-12-23Colorado Avalanche7Vegas Golden Knights318,4252:40
+2019-12-23Montreal Canadiens6Winnipeg Jets215,3252:31
+2019-12-27Vegas Golden Knights3Anaheim Ducks416,6012:21
+2019-12-27Boston Bruins3Buffalo Sabres019,0702:22
+2019-12-27New York Islanders2Chicago Blackhawks521,7472:29
+2019-12-27Minnesota Wild6Colorado Avalanche418,1462:35
+2019-12-27Calgary Flames5Edmonton Oilers118,3472:20
+2019-12-27Toronto Maple Leafs5New Jersey Devils4OT16,5142:36
+2019-12-27Pittsburgh Penguins5Nashville Predators217,8492:31
+2019-12-27Carolina Hurricanes3New York Rangers517,4982:34
+2019-12-27Los Angeles Kings3San Jose Sharks2OT16,6102:18
+2019-12-27St. Louis Blues5Winnipeg Jets4OT15,3252:28
+2019-12-27Columbus Blue Jackets1Washington Capitals2OT18,5732:32
+2019-12-28Washington Capitals4Carolina Hurricanes618,6802:30
+2019-12-28Colorado Avalanche2Dallas Stars3SO18,5322:44
+2019-12-28Detroit Red Wings4Florida Panthers517,7312:29
+2019-12-28Nashville Predators4Pittsburgh Penguins618,6282:33
+2019-12-28Philadelphia Flyers1San Jose Sharks616,8192:22
+2019-12-28Montreal Canadiens4Tampa Bay Lightning519,0922:34
+2019-12-28New York Rangers5Toronto Maple Leafs4OT19,4922:36
+2019-12-28Los Angeles Kings2Vancouver Canucks318,8372:20
+2019-12-28Arizona Coyotes1Vegas Golden Knights418,4612:29
+2019-12-29Philadelphia Flyers2Anaheim Ducks1OT16,2382:36
+2019-12-29Dallas Stars4Arizona Coyotes217,1252:44
+2019-12-29Buffalo Sabres2Boston Bruins317,8502:33
+2019-12-29Chicago Blackhawks3Columbus Blue Jackets2SO18,5442:41
+2019-12-29Vancouver Canucks5Calgary Flames219,2892:30
+2019-12-29Montreal Canadiens5Florida Panthers619,6512:35
+2019-12-29New York Islanders3Minnesota Wild117,5062:26
+2019-12-29New Jersey Devils4Ottawa Senators3OT14,0052:31
+2019-12-29Winnipeg Jets1St. Louis Blues418,0962:27
+2019-12-29Detroit Red Wings1Tampa Bay Lightning219,0922:20
+2019-12-30Ottawa Senators2Pittsburgh Penguins518,6532:37
+2019-12-31St. Louis Blues1Arizona Coyotes314,6182:21
+2019-12-31Tampa Bay Lightning6Buffalo Sabres418,4652:29
+2019-12-31Montreal Canadiens1Carolina Hurricanes318,6802:50
+2019-12-31Florida Panthers1Columbus Blue Jackets418,9772:23
+2019-12-31Chicago Blackhawks5Calgary Flames319,2892:46
+2019-12-31Winnipeg Jets7Colorado Avalanche418,1472:37
+2019-12-31San Jose Sharks0Detroit Red Wings219,5152:24
+2019-12-31New York Rangers5Edmonton Oilers718,3472:37
+2019-12-31Philadelphia Flyers3Los Angeles Kings517,9822:25
+2019-12-31Toronto Maple Leafs4Minnesota Wild118,1642:29
+2019-12-31Boston Bruins2New Jersey Devils3SO16,5142:33
+2019-12-31Anaheim Ducks2Vegas Golden Knights518,3202:28
+2019-12-31New York Islanders4Washington Capitals318,5732:26
+2020-01-01Nashville Predators2Dallas Stars485,6302:45
+2020-01-02Anaheim Ducks2Arizona Coyotes414,6512:20
+2020-01-02Columbus Blue Jackets2Boston Bruins1OT17,8502:22
+2020-01-02Edmonton Oilers2Buffalo Sabres3OT19,0702:34
+2020-01-02New York Rangers3Calgary Flames419,0382:21
+2020-01-02St. Louis Blues3Colorado Avalanche718,1352:31
+2020-01-02Tampa Bay Lightning2Montreal Canadiens120,9042:25
+2020-01-02New Jersey Devils2New York Islanders113,9172:34
+2020-01-02Florida Panthers6Ottawa Senators310,9912:28
+2020-01-02San Jose Sharks3Pittsburgh Penguins2OT18,6202:35
+2020-01-02Chicago Blackhawks5Vancouver Canucks718,8712:29
+2020-01-02Philadelphia Flyers4Vegas Golden Knights518,4152:38
+2020-01-02Toronto Maple Leafs6Winnipeg Jets315,3252:21
+2020-01-03Washington Capitals4Carolina Hurricanes318,6802:29
+2020-01-03Detroit Red Wings1Dallas Stars418,5322:23
+2020-01-04Philadelphia Flyers2Arizona Coyotes617,1252:32
+2020-01-04Edmonton Oilers4Boston Bruins117,8502:24
+2020-01-04Florida Panthers2Buffalo Sabres317,7312:21
+2020-01-04San Jose Sharks3Columbus Blue Jackets218,8742:26
+2020-01-04Nashville Predators4Los Angeles Kings118,2302:33
+2020-01-04Winnipeg Jets2Minnesota Wild3OT17,2712:35
+2020-01-04Pittsburgh Penguins3Montreal Canadiens2OT21,3022:34
+2020-01-04Colorado Avalanche5New Jersey Devils216,5142:34
+2020-01-04Tampa Bay Lightning5Ottawa Senators313,9142:27
+2020-01-04New York Islanders0Toronto Maple Leafs319,5362:16
+2020-01-04New York Rangers1Vancouver Canucks218,8712:29
+2020-01-04St. Louis Blues4Vegas Golden Knights5OT18,3342:42
+2020-01-05Nashville Predators4Anaheim Ducks5SO15,8582:52
+2020-01-05Tampa Bay Lightning3Carolina Hurricanes118,0152:28
+2020-01-05Detroit Red Wings2Chicago Blackhawks421,4932:16
+2020-01-05Calgary Flames5Minnesota Wild4SO17,2042:43
+2020-01-05Florida Panthers4Pittsburgh Penguins118,5642:25
+2020-01-05San Jose Sharks4Washington Capitals5OT18,5732:34
+2020-01-06Columbus Blue Jackets4Los Angeles Kings214,9642:15
+2020-01-06Winnipeg Jets3Montreal Canadiens220,8822:29
+2020-01-06Colorado Avalanche0New York Islanders113,2412:29
+2020-01-06Edmonton Oilers6Toronto Maple Leafs419,5072:32
+2020-01-07Columbus Blue Jackets4Anaheim Ducks316,1532:27
+2020-01-07Philadelphia Flyers4Carolina Hurricanes5OT15,0722:41
+2020-01-07Calgary Flames2Chicago Blackhawks121,2742:21
+2020-01-07Montreal Canadiens3Detroit Red Wings417,5382:28
+2020-01-07Arizona Coyotes5Florida Panthers212,1202:36
+2020-01-07New York Islanders4New Jersey Devils3OT14,5182:28
+2020-01-07Boston Bruins6Nashville Predators217,6232:40
+2020-01-07Colorado Avalanche3New York Rangers517,0822:30
+2020-01-07San Jose Sharks2St. Louis Blues318,0962:26
+2020-01-07Vancouver Canucks2Tampa Bay Lightning919,0922:34
+2020-01-07Pittsburgh Penguins4Vegas Golden Knights318,2982:30
+2020-01-07Ottawa Senators1Washington Capitals618,5732:23
+2020-01-08Dallas Stars2Los Angeles Kings117,1292:24
+2020-01-08Washington Capitals2Philadelphia Flyers318,5952:23
+2020-01-08Winnipeg Jets4Toronto Maple Leafs3SO19,3972:31
+2020-01-09Dallas Stars3Anaheim Ducks015,4192:28
+2020-01-09Winnipeg Jets4Boston Bruins517,8502:31
+2020-01-09Minnesota Wild1Calgary Flames218,6342:26
+2020-01-09Nashville Predators5Chicago Blackhawks221,4402:22
+2020-01-09Vancouver Canucks2Florida Panthers512,6482:29
+2020-01-09Edmonton Oilers4Montreal Canadiens221,3022:31
+2020-01-09New Jersey Devils3New York Rangers617,0072:31
+2020-01-09Columbus Blue Jackets1San Jose Sharks317,0852:24
+2020-01-09Buffalo Sabres1St. Louis Blues518,0962:24
+2020-01-09Arizona Coyotes0Tampa Bay Lightning419,0922:26
+2020-01-09Los Angeles Kings5Vegas Golden Knights218,2812:31
+2020-01-10Arizona Coyotes0Carolina Hurricanes316,4762:20
+2020-01-10Pittsburgh Penguins4Colorado Avalanche3OT18,1322:32
+2020-01-10Ottawa Senators2Detroit Red Wings3SO18,7242:46
+2020-01-11Vancouver Canucks6Buffalo Sabres318,5092:32
+2020-01-11Los Angeles Kings0Carolina Hurricanes218,6802:27
+2020-01-11Edmonton Oilers3Calgary Flames419,2892:24
+2020-01-11Anaheim Ducks2Chicago Blackhawks421,5482:24
+2020-01-11Boston Bruins3New York Islanders2OT14,9622:28
+2020-01-11Montreal Canadiens2Ottawa Senators1OT18,0882:37
+2020-01-11Tampa Bay Lightning1Philadelphia Flyers019,8662:23
+2020-01-11Dallas Stars1San Jose Sharks217,5622:19
+2020-01-11New York Rangers2St. Louis Blues518,0962:20
+2020-01-11Columbus Blue Jackets3Vegas Golden Knights018,4002:16
+2020-01-11New Jersey Devils5Washington Capitals118,5732:30
+2020-01-12Pittsburgh Penguins4Arizona Coyotes3SO13,7552:39
+2020-01-12Buffalo Sabres5Detroit Red Wings118,3122:26
+2020-01-12Toronto Maple Leafs4Florida Panthers815,5352:33
+2020-01-12Vancouver Canucks4Minnesota Wild117,3482:25
+2020-01-12Tampa Bay Lightning1New Jersey Devils314,2032:52
+2020-01-12Nashville Predators1Winnipeg Jets015,3252:23
+2020-01-13Calgary Flames0Montreal Canadiens220,7902:19
+2020-01-13New York Islanders2New York Rangers617,4032:23
+2020-01-13Boston Bruins5Philadelphia Flyers6SO19,2462:49
+2020-01-13Anaheim Ducks1St. Louis Blues418,0962:17
+2020-01-13Carolina Hurricanes0Washington Capitals218,5732:31
+2020-01-14San Jose Sharks3Arizona Coyotes614,7162:23
+2020-01-14Vegas Golden Knights2Buffalo Sabres418,2572:25
+2020-01-14Boston Bruins0Columbus Blue Jackets317,3492:23
+2020-01-14Dallas Stars3Colorado Avalanche2OT18,0152:37
+2020-01-14Nashville Predators2Edmonton Oilers417,0292:31
+2020-01-14Detroit Red Wings2New York Islanders812,5422:26
+2020-01-14Chicago Blackhawks3Ottawa Senators2OT12,2382:26
+2020-01-14Minnesota Wild3Pittsburgh Penguins718,5452:26
+2020-01-14Los Angeles Kings3Tampa Bay Lightning4SO19,0922:48
+2020-01-14New Jersey Devils4Toronto Maple Leafs719,1242:34
+2020-01-14Vancouver Canucks0Winnipeg Jets415,3252:33
+2020-01-15Chicago Blackhawks4Montreal Canadiens121,3022:31
+2020-01-15Philadelphia Flyers4St. Louis Blues3OT18,0962:38
+2020-01-16Pittsburgh Penguins1Boston Bruins417,8502:37
+2020-01-16Carolina Hurricanes2Columbus Blue Jackets317,9002:25
+2020-01-16San Jose Sharks0Colorado Avalanche418,0142:26
+2020-01-16Buffalo Sabres4Dallas Stars118,5322:26
+2020-01-16Los Angeles Kings3Florida Panthers412,5752:22
+2020-01-16Tampa Bay Lightning2Minnesota Wild317,3052:30
+2020-01-16Anaheim Ducks4Nashville Predators217,3882:29
+2020-01-16New York Rangers3New York Islanders213,9172:35
+2020-01-16Vegas Golden Knights4Ottawa Senators212,4122:21
+2020-01-16Montreal Canadiens4Philadelphia Flyers117,3772:29
+2020-01-16Calgary Flames2Toronto Maple Leafs1SO19,4622:31
+2020-01-16Arizona Coyotes1Vancouver Canucks318,8712:18
+2020-01-16New Jersey Devils2Washington Capitals518,5732:38
+2020-01-17Anaheim Ducks2Carolina Hurricanes1OT16,9132:29
+2020-01-17Pittsburgh Penguins2Detroit Red Wings1OT19,5152:21
+2020-01-17Tampa Bay Lightning7Winnipeg Jets115,3252:22
+2020-01-18New Jersey Devils0Columbus Blue Jackets518,6802:25
+2020-01-18St. Louis Blues3Colorado Avalanche518,1322:26
+2020-01-18Florida Panthers4Detroit Red Wings119,2312:33
+2020-01-18Arizona Coyotes3Edmonton Oilers717,5452:30
+2020-01-18Dallas Stars0Minnesota Wild718,2192:29
+2020-01-18Vegas Golden Knights4Montreal Canadiens5SO21,3022:41
+2020-01-18Buffalo Sabres1Nashville Predators217,7292:27
+2020-01-18Washington Capitals6New York Islanders413,9172:42
+2020-01-18Calgary Flames2Ottawa Senators517,6712:16
+2020-01-18Los Angeles Kings1Philadelphia Flyers419,6022:28
+2020-01-18Chicago Blackhawks6Toronto Maple Leafs219,5022:18
+2020-01-18San Jose Sharks1Vancouver Canucks418,7862:40
+2020-01-19New York Islanders1Carolina Hurricanes2SO18,6802:35
+2020-01-19Winnipeg Jets2Chicago Blackhawks521,4872:22
+2020-01-19Columbus Blue Jackets2New York Rangers117,4232:14
+2020-01-19Boston Bruins3Pittsburgh Penguins418,6552:32
+2020-01-20Detroit Red Wings3Colorado Avalanche618,1102:30
+2020-01-20Florida Panthers5Minnesota Wild417,2552:29
+2020-01-21Vegas Golden Knights2Boston Bruins317,8502:24
+2020-01-21Winnipeg Jets1Carolina Hurricanes414,6072:26
+2020-01-21Florida Panthers4Chicago Blackhawks321,5592:31
+2020-01-21New York Islanders4New York Rangers217,2762:25
+2020-01-21Pittsburgh Penguins0Philadelphia Flyers319,1202:21
+2020-01-22Winnipeg Jets3Columbus Blue Jackets418,4252:28
+2020-01-22Detroit Red Wings2Minnesota Wild417,2122:22
+2020-01-27Tampa Bay Lightning2Dallas Stars3OT18,3452:27
+2020-01-27Washington Capitals4Montreal Canadiens221,3022:30
+2020-01-27Toronto Maple Leafs5Nashville Predators217,2982:14
+2020-01-27New Jersey Devils4Ottawa Senators3SO9,6732:48
+2020-01-27Anaheim Ducks2San Jose Sharks416,5712:40
+2020-01-27St. Louis Blues1Vancouver Canucks318,8712:25
+2020-01-28Ottawa Senators5Buffalo Sabres216,6512:29
+2020-01-28St. Louis Blues5Calgary Flames4SO19,0332:40
+2020-01-29Arizona Coyotes2Anaheim Ducks416,7302:20
+2020-01-29Toronto Maple Leafs5Dallas Stars318,5322:25
+2020-01-29Calgary Flames4Edmonton Oilers3SO18,3473:03
+2020-01-29Tampa Bay Lightning4Los Angeles Kings218,2302:33
+2020-01-29Vancouver Canucks5San Jose Sharks216,0242:28
+2020-01-29Nashville Predators5Washington Capitals418,5732:28
+2020-01-30Los Angeles Kings3Arizona Coyotes2OT13,3462:25
+2020-01-30Montreal Canadiens3Buffalo Sabres116,6042:31
+2020-01-30Nashville Predators6New Jersey Devils5SO14,3272:42
+2020-01-31Tampa Bay Lightning4Anaheim Ducks316,0322:22
+2020-01-31Vegas Golden Knights4Carolina Hurricanes318,1502:29
+2020-01-31St. Louis Blues2Edmonton Oilers417,2072:29
+2020-01-31Detroit Red Wings2New York Rangers417,1692:23
+2020-01-31Washington Capitals5Ottawa Senators314,2792:28
+2020-01-31Philadelphia Flyers3Pittsburgh Penguins4OT18,6472:23
+2020-01-31Boston Bruins2Winnipeg Jets115,3252:32
+2020-02-01Chicago Blackhawks3Arizona Coyotes2SO17,1252:39
+2020-02-01Columbus Blue Jackets1Buffalo Sabres2OT17,6502:31
+2020-02-01Edmonton Oilers8Calgary Flames319,2892:38
+2020-02-01New York Rangers1Detroit Red Wings019,5152:36
+2020-02-01Anaheim Ducks3Los Angeles Kings118,2302:33
+2020-02-01Boston Bruins6Minnesota Wild118,0092:30
+2020-02-01Florida Panthers0Montreal Canadiens421,3022:25
+2020-02-01Dallas Stars3New Jersey Devils2OT16,5142:30
+2020-02-01Vegas Golden Knights3Nashville Predators017,6642:21
+2020-02-01Vancouver Canucks4New York Islanders3OT14,8622:31
+2020-02-01Colorado Avalanche3Philadelphia Flyers619,7452:34
+2020-02-01Tampa Bay Lightning3San Jose Sharks017,5622:23
+2020-02-01Ottawa Senators1Toronto Maple Leafs2OT19,4062:43
+2020-02-01St. Louis Blues2Winnipeg Jets515,3252:26
+2020-02-02Vancouver Canucks3Carolina Hurricanes4SO15,7672:43
+2020-02-02Columbus Blue Jackets4Montreal Canadiens321,3022:21
+2020-02-02Pittsburgh Penguins4Washington Capitals318,5732:29
+2020-02-03Philadelphia Flyers3Detroit Red Wings017,5262:19
+2020-02-03Dallas Stars5New York Rangers315,7792:29
+2020-02-03Florida Panthers5Toronto Maple Leafs319,1562:24
+2020-02-04Edmonton Oilers0Arizona Coyotes314,7252:19
+2020-02-04Vancouver Canucks0Boston Bruins417,8502:32
+2020-02-04Colorado Avalanche6Buffalo Sabres116,8592:23
+2020-02-04Florida Panthers0Columbus Blue Jackets1OT17,8112:33
+2020-02-04San Jose Sharks3Calgary Flames118,1312:23
+2020-02-04Chicago Blackhawks2Minnesota Wild3OT17,3412:36
+2020-02-04Montreal Canadiens5New Jersey Devils4SO13,2832:46
+2020-02-04Dallas Stars3New York Islanders4OT10,1282:28
+2020-02-04Anaheim Ducks3Ottawa Senators2SO9,2382:34
+2020-02-04Carolina Hurricanes3St. Louis Blues618,0962:20
+2020-02-04Vegas Golden Knights2Tampa Bay Lightning419,0922:28
+2020-02-04Nashville Predators2Winnipeg Jets1OT15,3252:27
+2020-02-04Los Angeles Kings2Washington Capitals418,5732:26
+2020-02-05Boston Bruins2Chicago Blackhawks1OT21,4722:32
+2020-02-05Toronto Maple Leafs3New York Rangers517,1232:31
+2020-02-06Carolina Hurricanes5Arizona Coyotes311,6322:24
+2020-02-06Detroit Red Wings4Buffalo Sabres3SO16,6072:38
+2020-02-06Nashville Predators3Calgary Flames218,5122:23
+2020-02-06San Jose Sharks6Edmonton Oilers317,1752:19
+2020-02-06Vegas Golden Knights7Florida Panthers215,0572:27
+2020-02-06Vancouver Canucks2Minnesota Wild417,1912:27
+2020-02-06Anaheim Ducks2Montreal Canadiens3OT20,8962:24
+2020-02-06Los Angeles Kings3New York Islanders511,1082:32
+2020-02-06Colorado Avalanche4Ottawa Senators111,4652:26
+2020-02-06New Jersey Devils5Philadelphia Flyers019,0702:23
+2020-02-06Winnipeg Jets4St. Louis Blues218,0962:30
+2020-02-06Pittsburgh Penguins2Tampa Bay Lightning419,0922:34
+2020-02-07Detroit Red Wings0Columbus Blue Jackets218,9782:22
+2020-02-07Minnesota Wild3Dallas Stars218,5322:31
+2020-02-07Buffalo Sabres3New York Rangers217,2972:26
+2020-02-07Anaheim Ducks4Toronto Maple Leafs5OT19,0772:44
+2020-02-08Arizona Coyotes2Boston Bruins417,8502:27
+2020-02-08Colorado Avalanche2Columbus Blue Jackets119,0222:20
+2020-02-08Nashville Predators2Edmonton Oilers317,2122:28
+2020-02-08Pittsburgh Penguins3Florida Panthers217,7732:35
+2020-02-08Toronto Maple Leafs1Montreal Canadiens2OT21,3022:20
+2020-02-08Los Angeles Kings0New Jersey Devils316,5142:20
+2020-02-08Dallas Stars3St. Louis Blues2OT18,0962:33
+2020-02-08New York Islanders1Tampa Bay Lightning319,0922:20
+2020-02-08Calgary Flames6Vancouver Canucks218,8712:21
+2020-02-08Carolina Hurricanes6Vegas Golden Knights5SO18,4172:49
+2020-02-08Ottawa Senators2Winnipeg Jets515,3252:23
+2020-02-08Philadelphia Flyers7Washington Capitals218,5732:31
+2020-02-09Anaheim Ducks3Buffalo Sabres216,1312:22
+2020-02-09Boston Bruins1Detroit Red Wings319,5152:27
+2020-02-09Colorado Avalanche3Minnesota Wild217,4442:32
+2020-02-09Los Angeles Kings1New York Rangers417,2372:34
+2020-02-09Chicago Blackhawks2Winnipeg Jets515,3252:22
+2020-02-10Tampa Bay Lightning2Columbus Blue Jackets1OT17,1312:26
+2020-02-10Arizona Coyotes3Montreal Canadiens220,7892:32
+2020-02-10Florida Panthers1Philadelphia Flyers417,8672:26
+2020-02-10Calgary Flames6San Jose Sharks217,1012:24
+2020-02-10Nashville Predators2Vancouver Canucks618,8712:33
+2020-02-10New York Islanders5Washington Capitals318,5732:29
+2020-02-11Detroit Red Wings2Buffalo Sabres316,5882:23
+2020-02-11Ottawa Senators0Colorado Avalanche318,0152:26
+2020-02-11Carolina Hurricanes1Dallas Stars418,5322:27
+2020-02-11Chicago Blackhawks3Edmonton Oilers517,0662:28
+2020-02-11Vegas Golden Knights0Minnesota Wild417,1122:27
+2020-02-11Florida Panthers5New Jersey Devils312,7322:24
+2020-02-11Philadelphia Flyers3New York Islanders512,2282:23
+2020-02-11Tampa Bay Lightning2Pittsburgh Penguins1OT18,4452:29
+2020-02-11Arizona Coyotes2Toronto Maple Leafs3OT19,0392:36
+2020-02-11New York Rangers4Winnipeg Jets115,3252:21
+2020-02-12Montreal Canadiens1Boston Bruins417,8502:33
+2020-02-12Calgary Flames3Los Angeles Kings518,2302:39
+2020-02-12Chicago Blackhawks0Vancouver Canucks318,8712:29
+2020-02-13Calgary Flames6Anaheim Ducks016,2122:22
+2020-02-13Columbus Blue Jackets3Buffalo Sabres4OT16,9232:30
+2020-02-13Washington Capitals3Colorado Avalanche218,1462:34
+2020-02-13Philadelphia Flyers6Florida Panthers215,5562:26
+2020-02-13New York Rangers4Minnesota Wild3SO17,4132:44
+2020-02-13Detroit Red Wings1New Jersey Devils412,9412:24
+2020-02-13New York Islanders0Nashville Predators517,5612:18
+2020-02-13Arizona Coyotes2Ottawa Senators39,7622:23
+2020-02-13Edmonton Oilers1Tampa Bay Lightning319,0922:33
+2020-02-13Dallas Stars3Toronto Maple Leafs219,1072:25
+2020-02-13St. Louis Blues5Vegas Golden Knights6OT18,2522:41
+2020-02-14New Jersey Devils2Carolina Hurricanes518,6802:25
+2020-02-14New York Rangers3Columbus Blue Jackets118,8882:27
+2020-02-14Montreal Canadiens1Pittsburgh Penguins418,6502:16
+2020-02-14San Jose Sharks3Winnipeg Jets215,3252:31
+2020-02-15Washington Capitals1Arizona Coyotes317,1392:30
+2020-02-15Detroit Red Wings1Boston Bruins417,8502:25
+2020-02-15Chicago Blackhawks8Calgary Flames419,2312:18
+2020-02-15Los Angeles Kings3Colorado Avalanche143,5742:32
+2020-02-15Edmonton Oilers4Florida Panthers115,0692:30
+2020-02-15San Jose Sharks2Minnesota Wild018,6112:25
+2020-02-15Dallas Stars4Montreal Canadiens3OT21,3022:29
+2020-02-15Toronto Maple Leafs4Ottawa Senators218,5442:20
+2020-02-15Nashville Predators4St. Louis Blues318,0962:36
+2020-02-15Philadelphia Flyers3Tampa Bay Lightning519,0922:57
+2020-02-15New York Islanders0Vegas Golden Knights118,4442:28
+2020-02-16Toronto Maple Leafs2Buffalo Sabres519,0702:23
+2020-02-16Edmonton Oilers4Carolina Hurricanes3OT18,6802:29
+2020-02-16Columbus Blue Jackets3New Jersey Devils4SO16,5142:39
+2020-02-16St. Louis Blues1Nashville Predators217,3492:21
+2020-02-16Boston Bruins3New York Rangers118,0062:29
+2020-02-16Dallas Stars3Ottawa Senators4OT13,1502:33
+2020-02-16Detroit Red Wings1Pittsburgh Penguins518,6542:19
+2020-02-16Anaheim Ducks5Vancouver Canucks118,8712:29
+2020-02-16Chicago Blackhawks2Winnipeg Jets315,3252:18
+2020-02-17New York Islanders1Arizona Coyotes213,9562:21
+2020-02-17Anaheim Ducks4Calgary Flames619,1162:30
+2020-02-17Tampa Bay Lightning4Colorado Avalanche3OT18,1072:42
+2020-02-17Florida Panthers5San Jose Sharks316,5102:28
+2020-02-17Washington Capitals2Vegas Golden Knights318,3992:51
+2020-02-18Montreal Canadiens3Detroit Red Wings418,9472:29
+2020-02-18Carolina Hurricanes4Nashville Predators117,2042:24
+2020-02-18Buffalo Sabres4Ottawa Senators715,0402:31
+2020-02-18Columbus Blue Jackets1Philadelphia Flyers518,2732:26
+2020-02-18Toronto Maple Leafs2Pittsburgh Penguins518,4662:30
+2020-02-18New Jersey Devils0St. Louis Blues318,0962:23
+2020-02-18Los Angeles Kings3Winnipeg Jets615,3252:11
+2020-02-19Florida Panthers4Anaheim Ducks115,7162:26
+2020-02-19New York Rangers6Chicago Blackhawks321,5732:16
+2020-02-19New York Islanders1Colorado Avalanche318,0112:29
+2020-02-19Arizona Coyotes2Dallas Stars318,2272:31
+2020-02-19Boston Bruins2Edmonton Oilers1OT17,8042:27
+2020-02-19Minnesota Wild4Vancouver Canucks3SO18,8712:38
+2020-02-20Philadelphia Flyers4Columbus Blue Jackets3OT18,3652:39
+2020-02-20Florida Panthers4Los Angeles Kings516,9112:36
+2020-02-20San Jose Sharks1New Jersey Devils213,9412:27
+2020-02-20Winnipeg Jets5Ottawa Senators111,1832:33
+2020-02-20Arizona Coyotes0St. Louis Blues118,0962:23
+2020-02-20Pittsburgh Penguins0Toronto Maple Leafs419,3862:25
+2020-02-20Tampa Bay Lightning3Vegas Golden Knights518,3762:28
+2020-02-20Montreal Canadiens4Washington Capitals3OT18,5732:27
+2020-02-21Colorado Avalanche1Anaheim Ducks016,7422:29
+2020-02-21New York Rangers5Carolina Hurricanes218,6802:34
+2020-02-21Boston Bruins4Calgary Flames319,2892:20
+2020-02-21Nashville Predators1Chicago Blackhawks2OT21,8782:27
+2020-02-21St. Louis Blues5Dallas Stars118,5322:17
+2020-02-21Minnesota Wild5Edmonton Oilers317,0552:25
+2020-02-21Detroit Red Wings1New York Islanders413,9172:33
+2020-02-22Tampa Bay Lightning3Arizona Coyotes714,8252:30
+2020-02-22Colorado Avalanche2Los Angeles Kings1SO18,2302:46
+2020-02-22Washington Capitals2New Jersey Devils316,5142:33
+2020-02-22Columbus Blue Jackets3Nashville Predators4SO17,5492:39
+2020-02-22San Jose Sharks2New York Rangers318,0062:23
+2020-02-22Montreal Canadiens3Ottawa Senators018,3742:29
+2020-02-22Winnipeg Jets2Philadelphia Flyers419,8702:25
+2020-02-22Buffalo Sabres5Pittsburgh Penguins218,6202:25
+2020-02-22Carolina Hurricanes6Toronto Maple Leafs319,4142:41
+2020-02-22Boston Bruins3Vancouver Canucks918,8712:45
+2020-02-22Florida Panthers3Vegas Golden Knights518,4802:34
+2020-02-23Vegas Golden Knights6Anaheim Ducks5OT15,1712:39
+2020-02-23Winnipeg Jets1Buffalo Sabres217,8052:25
+2020-02-23Chicago Blackhawks1Dallas Stars218,5322:22
+2020-02-23Calgary Flames4Detroit Red Wings218,0222:21
+2020-02-23Edmonton Oilers4Los Angeles Kings218,2302:28
+2020-02-23St. Louis Blues4Minnesota Wild117,2662:24
+2020-02-23San Jose Sharks1New York Islanders413,9172:22
+2020-02-23Pittsburgh Penguins3Washington Capitals518,5732:38
+2020-02-24Ottawa Senators3Columbus Blue Jackets4OT17,5182:41
+2020-02-25Edmonton Oilers3Anaheim Ducks4OT15,4312:32
+2020-02-25Florida Panthers2Arizona Coyotes112,3912:23
+2020-02-25Calgary Flames5Boston Bruins217,8502:35
+2020-02-25Dallas Stars4Carolina Hurricanes118,1762:29
+2020-02-25New Jersey Devils4Detroit Red Wings117,5252:33
+2020-02-25Columbus Blue Jackets4Minnesota Wild517,0572:24
+2020-02-25Vancouver Canucks4Montreal Canadiens3OT21,1872:29
+2020-02-25Ottawa Senators2Nashville Predators317,2052:26
+2020-02-25New York Rangers4New York Islanders3OT13,9172:35
+2020-02-25San Jose Sharks2Philadelphia Flyers418,2902:22
+2020-02-25Chicago Blackhawks5St. Louis Blues618,0962:29
+2020-02-25Toronto Maple Leafs4Tampa Bay Lightning319,0922:23
+2020-02-25Winnipeg Jets3Washington Capitals4SO18,5732:42
+2020-02-26Buffalo Sabres2Colorado Avalanche318,0202:28
+2020-02-26Pittsburgh Penguins1Los Angeles Kings216,8982:22
+2020-02-26Edmonton Oilers0Vegas Golden Knights318,4212:16
+2020-02-27Dallas Stars3Boston Bruins417,8502:27
+2020-02-27Minnesota Wild7Detroit Red Wings117,6632:26
+2020-02-27Toronto Maple Leafs5Florida Panthers316,3222:15
+2020-02-27New York Rangers5Montreal Canadiens220,9462:23
+2020-02-27Calgary Flames3Nashville Predators4OT17,3502:28
+2020-02-27Vancouver Canucks2Ottawa Senators512,1662:28
+2020-02-27New Jersey Devils2San Jose Sharks3OT16,9132:22
+2020-02-27New York Islanders2St. Louis Blues3OT18,0962:27
+2020-02-27Chicago Blackhawks5Tampa Bay Lightning219,0922:43
+2020-02-27Washington Capitals0Winnipeg Jets315,3252:21
+2020-02-28Pittsburgh PenguinsAnaheim Ducks
+2020-02-28Colorado AvalancheCarolina Hurricanes
+2020-02-28Minnesota WildColumbus Blue Jackets
+2020-02-28New York RangersPhiladelphia Flyers
+2020-02-28Buffalo SabresVegas Golden Knights
+2020-02-29Buffalo SabresArizona Coyotes
+2020-02-29Winnipeg JetsEdmonton Oilers
+2020-02-29Chicago BlackhawksFlorida Panthers
+2020-02-29New Jersey DevilsLos Angeles Kings
+2020-02-29Carolina HurricanesMontreal Canadiens
+2020-02-29Colorado AvalancheNashville Predators
+2020-02-29Boston BruinsNew York Islanders
+2020-02-29Detroit Red WingsOttawa Senators
+2020-02-29Pittsburgh PenguinsSan Jose Sharks
+2020-02-29Dallas StarsSt. Louis Blues
+2020-02-29Calgary FlamesTampa Bay Lightning
+2020-02-29Vancouver CanucksToronto Maple Leafs
+2020-03-01New Jersey DevilsAnaheim Ducks
+2020-03-01Vancouver CanucksColumbus Blue Jackets
+2020-03-01Calgary FlamesFlorida Panthers
+2020-03-01Washington CapitalsMinnesota Wild
+2020-03-01Philadelphia FlyersNew York Rangers
+2020-03-01Los Angeles KingsVegas Golden Knights
+2020-03-02Colorado AvalancheDetroit Red Wings
+2020-03-02Edmonton OilersNashville Predators
+2020-03-03Anaheim DucksChicago Blackhawks
+2020-03-03Edmonton OilersDallas Stars
+2020-03-03Nashville PredatorsMinnesota Wild
+2020-03-03Montreal CanadiensNew York Islanders
+2020-03-03St. Louis BluesNew York Rangers
+2020-03-03Ottawa SenatorsPittsburgh Penguins
+2020-03-03Toronto Maple LeafsSan Jose Sharks
+2020-03-03Boston BruinsTampa Bay Lightning
+2020-03-03New Jersey DevilsVegas Golden Knights
+2020-03-03Buffalo SabresWinnipeg Jets
+2020-03-04Columbus Blue JacketsCalgary Flames
+2020-03-04Anaheim DucksColorado Avalanche
+2020-03-04Arizona CoyotesVancouver Canucks
+2020-03-04Philadelphia FlyersWashington Capitals
+2020-03-05Pittsburgh PenguinsBuffalo Sabres
+2020-03-05Edmonton OilersChicago Blackhawks
+2020-03-05Boston BruinsFlorida Panthers
+2020-03-05Toronto Maple LeafsLos Angeles Kings
+2020-03-05Dallas StarsNashville Predators
+2020-03-05Washington CapitalsNew York Rangers
+2020-03-05New York IslandersOttawa Senators
+2020-03-05Carolina HurricanesPhiladelphia Flyers
+2020-03-05Minnesota WildSan Jose Sharks
+2020-03-05Montreal CanadiensTampa Bay Lightning
+2020-03-06Toronto Maple LeafsAnaheim Ducks
+2020-03-06Arizona CoyotesCalgary Flames
+2020-03-06Chicago BlackhawksDetroit Red Wings
+2020-03-06St. Louis BluesNew Jersey Devils
+2020-03-06Colorado AvalancheVancouver Canucks
+2020-03-06Vegas Golden KnightsWinnipeg Jets
+2020-03-07Tampa Bay LightningBoston Bruins
+2020-03-07Nashville PredatorsDallas Stars
+2020-03-07Columbus Blue JacketsEdmonton Oilers
+2020-03-07Montreal CanadiensFlorida Panthers
+2020-03-07Minnesota WildLos Angeles Kings
+2020-03-07Carolina HurricanesNew York Islanders
+2020-03-07New Jersey DevilsNew York Rangers
+2020-03-07Buffalo SabresPhiladelphia Flyers
+2020-03-07Washington CapitalsPittsburgh Penguins
+2020-03-07Ottawa SenatorsSan Jose Sharks
+2020-03-08Minnesota WildAnaheim Ducks
+2020-03-08Vegas Golden KnightsCalgary Flames
+2020-03-08St. Louis BluesChicago Blackhawks
+2020-03-08Tampa Bay LightningDetroit Red Wings
+2020-03-08Carolina HurricanesPittsburgh Penguins
+2020-03-08Colorado AvalancheSan Jose Sharks
+2020-03-08Columbus Blue JacketsVancouver Canucks
+2020-03-09Washington CapitalsBuffalo Sabres
+2020-03-09Vegas Golden KnightsEdmonton Oilers
+2020-03-09Colorado AvalancheLos Angeles Kings
+2020-03-09Florida PanthersSt. Louis Blues
+2020-03-09Arizona CoyotesWinnipeg Jets
+2020-03-10Ottawa SenatorsAnaheim Ducks
+2020-03-10New York RangersDallas Stars
+2020-03-10Carolina HurricanesDetroit Red Wings
+2020-03-10Nashville PredatorsMontreal Canadiens
+2020-03-10Pittsburgh PenguinsNew Jersey Devils
+2020-03-10Boston BruinsPhiladelphia Flyers
+2020-03-10Tampa Bay LightningToronto Maple Leafs
+2020-03-10New York IslandersVancouver Canucks
+2020-03-11St. Louis BluesAnaheim Ducks
+2020-03-11San Jose SharksChicago Blackhawks
+2020-03-11New York RangersColorado Avalanche
+2020-03-11Winnipeg JetsEdmonton Oilers
+2020-03-11Ottawa SenatorsLos Angeles Kings
+2020-03-12Vancouver CanucksArizona Coyotes
+2020-03-12Pittsburgh PenguinsColumbus Blue Jackets
+2020-03-12New York IslandersCalgary Flames
+2020-03-12Florida PanthersDallas Stars
+2020-03-12Vegas Golden KnightsMinnesota Wild
+2020-03-12Buffalo SabresMontreal Canadiens
+2020-03-12Carolina HurricanesNew Jersey Devils
+2020-03-12Philadelphia FlyersTampa Bay Lightning
+2020-03-12Nashville PredatorsToronto Maple Leafs
+2020-03-12Detroit Red WingsWashington Capitals
+2020-03-13Boston BruinsBuffalo Sabres
+2020-03-13Ottawa SenatorsChicago Blackhawks
+2020-03-13Vancouver CanucksColorado Avalanche
+2020-03-13New York IslandersEdmonton Oilers
+2020-03-13San Jose SharksSt. Louis Blues
+2020-03-14New York RangersArizona Coyotes
+2020-03-14Toronto Maple LeafsBoston Bruins
+2020-03-14Pittsburgh PenguinsCarolina Hurricanes
+2020-03-14Nashville PredatorsColumbus Blue Jackets
+2020-03-14Winnipeg JetsCalgary Flames
+2020-03-14San Jose SharksDallas Stars
+2020-03-14New Jersey DevilsFlorida Panthers
+2020-03-14Anaheim DucksLos Angeles Kings
+2020-03-14Minnesota WildPhiladelphia Flyers
+2020-03-14Detroit Red WingsTampa Bay Lightning
+2020-03-14Chicago BlackhawksWashington Capitals
+2020-03-15Montreal CanadiensAnaheim Ducks
+2020-03-15Carolina HurricanesBuffalo Sabres
+2020-03-15Vegas Golden KnightsColorado Avalanche
+2020-03-15Nashville PredatorsMinnesota Wild
+2020-03-15Edmonton OilersPhiladelphia Flyers
+2020-03-15New York IslandersPittsburgh Penguins
+2020-03-15Ottawa SenatorsSt. Louis Blues
+2020-03-15New Jersey DevilsTampa Bay Lightning
+2020-03-15Winnipeg JetsVancouver Canucks
+2020-03-16Dallas StarsArizona Coyotes
+2020-03-16Columbus Blue JacketsBoston Bruins
+2020-03-16Florida PanthersDetroit Red Wings
+2020-03-16Calgary FlamesNew York Rangers
+2020-03-16Edmonton OilersWashington Capitals
+2020-03-17Buffalo SabresCarolina Hurricanes
+2020-03-17San Jose SharksColorado Avalanche
+2020-03-17Montreal CanadiensLos Angeles Kings
+2020-03-17Chicago BlackhawksMinnesota Wild
+2020-03-17Calgary FlamesNew York Islanders
+2020-03-17St. Louis BluesPhiladelphia Flyers
+2020-03-17New Jersey DevilsToronto Maple Leafs
+2020-03-17Dallas StarsVegas Golden Knights
+2020-03-17Florida PanthersWinnipeg Jets
+2020-03-18Boston BruinsAnaheim Ducks
+2020-03-18Vegas Golden KnightsArizona Coyotes
+2020-03-18Pittsburgh PenguinsNew York Rangers
+2020-03-18Edmonton OilersOttawa Senators
+2020-03-18Tampa Bay LightningVancouver Canucks
+2020-03-19St. Louis BluesCarolina Hurricanes
+2020-03-19Washington CapitalsColumbus Blue Jackets
+2020-03-19Minnesota WildChicago Blackhawks
+2020-03-19Buffalo SabresFlorida Panthers
+2020-03-19Boston BruinsLos Angeles Kings
+2020-03-19Calgary FlamesNew Jersey Devils
+2020-03-19Colorado AvalancheNashville Predators
+2020-03-19Montreal CanadiensSan Jose Sharks
+2020-03-19New York IslandersToronto Maple Leafs
+2020-03-20Vancouver CanucksAnaheim Ducks
+2020-03-20Detroit Red WingsArizona Coyotes
+2020-03-20Philadelphia FlyersDallas Stars
+2020-03-20Tampa Bay LightningEdmonton Oilers
+2020-03-20New York RangersPittsburgh Penguins
+2020-03-20Minnesota WildWinnipeg Jets
+2020-03-20Ottawa SenatorsWashington Capitals
+2020-03-21Chicago BlackhawksBuffalo Sabres
+2020-03-21Ottawa SenatorsCarolina Hurricanes
+2020-03-21Tampa Bay LightningCalgary Flames
+2020-03-21Montreal CanadiensColorado Avalanche
+2020-03-21St. Louis BluesFlorida Panthers
+2020-03-21Vancouver CanucksLos Angeles Kings
+2020-03-21New York IslandersNew Jersey Devils
+2020-03-21Philadelphia FlyersNashville Predators
+2020-03-21Boston BruinsSan Jose Sharks
+2020-03-21Columbus Blue JacketsToronto Maple Leafs
+2020-03-21Detroit Red WingsVegas Golden Knights
+2020-03-22New York RangersBuffalo Sabres
+2020-03-22Nashville PredatorsChicago Blackhawks
+2020-03-22Winnipeg JetsDallas Stars
+2020-03-22Arizona CoyotesLos Angeles Kings
+2020-03-22Carolina HurricanesNew York Islanders
+2020-03-22Washington CapitalsPittsburgh Penguins
+2020-03-23San Jose SharksCalgary Flames
+2020-03-23Anaheim DucksEdmonton Oilers
+2020-03-23Colorado AvalancheMinnesota Wild
+2020-03-23Columbus Blue JacketsNew Jersey Devils
+2020-03-23Florida PanthersToronto Maple Leafs
+2020-03-23Vancouver CanucksVegas Golden Knights
+2020-03-24Detroit Red WingsBoston Bruins
+2020-03-24Los Angeles KingsDallas Stars
+2020-03-24Buffalo SabresMontreal Canadiens
+2020-03-24Winnipeg JetsNashville Predators
+2020-03-24Columbus Blue JacketsNew York Rangers
+2020-03-24Florida PanthersOttawa Senators
+2020-03-24New York IslandersPhiladelphia Flyers
+2020-03-24Carolina HurricanesPittsburgh Penguins
+2020-03-24St. Louis BluesWashington Capitals
+2020-03-25Anaheim DucksCalgary Flames
+2020-03-25Pittsburgh PenguinsChicago Blackhawks
+2020-03-25Colorado AvalancheEdmonton Oilers
+2020-03-25Toronto Maple LeafsTampa Bay Lightning
+2020-03-25San Jose SharksVancouver Canucks
+2020-03-25Arizona CoyotesVegas Golden Knights
+2020-03-26Ottawa SenatorsBoston Bruins
+2020-03-26Toronto Maple LeafsCarolina Hurricanes
+2020-03-26Philadelphia FlyersDetroit Red Wings
+2020-03-26New Jersey DevilsMinnesota Wild
+2020-03-26Florida PanthersMontreal Canadiens
+2020-03-26Los Angeles KingsNashville Predators
+2020-03-26Buffalo SabresNew York Islanders
+2020-03-26New York RangersWashington Capitals
+2020-03-27Dallas StarsChicago Blackhawks
+2020-03-27San Jose SharksEdmonton Oilers
+2020-03-27Los Angeles KingsSt. Louis Blues
+2020-03-27Columbus Blue JacketsTampa Bay Lightning
+2020-03-27Calgary FlamesVancouver Canucks
+2020-03-27Colorado AvalancheWinnipeg Jets
+2020-03-28Nashville PredatorsArizona Coyotes
+2020-03-28Florida PanthersBoston Bruins
+2020-03-28Pittsburgh PenguinsCarolina Hurricanes
+2020-03-28Columbus Blue JacketsDallas Stars
+2020-03-28Washington CapitalsDetroit Red Wings
+2020-03-28Buffalo SabresMinnesota Wild
+2020-03-28New York IslandersMontreal Canadiens
+2020-03-28Philadelphia FlyersNew Jersey Devils
+2020-03-28Toronto Maple LeafsOttawa Senators
+2020-03-28New York RangersTampa Bay Lightning
+2020-03-28Anaheim DucksVancouver Canucks
+2020-03-29Los Angeles KingsChicago Blackhawks
+2020-03-29Nashville PredatorsColorado Avalanche
+2020-03-29Anaheim DucksEdmonton Oilers
+2020-03-29Carolina HurricanesNew Jersey Devils
+2020-03-29Pittsburgh PenguinsPhiladelphia Flyers
+2020-03-29Arizona CoyotesSan Jose Sharks
+2020-03-29Minnesota WildSt. Louis Blues
+2020-03-29Vegas Golden KnightsWinnipeg Jets
+2020-03-30Washington CapitalsBuffalo Sabres
+2020-03-30New York IslandersColumbus Blue Jackets
+2020-03-30Vancouver CanucksDallas Stars
+2020-03-30New York RangersFlorida Panthers
+2020-03-31Boston BruinsCarolina Hurricanes
+2020-03-31Winnipeg JetsCalgary Flames
+2020-03-31Montreal CanadiensChicago Blackhawks
+2020-03-31Arizona CoyotesColorado Avalanche
+2020-03-31Vegas Golden KnightsEdmonton Oilers
+2020-03-31San Jose SharksLos Angeles Kings
+2020-03-31Minnesota WildNew York Islanders
+2020-03-31New Jersey DevilsPittsburgh Penguins
+2020-03-31Detroit Red WingsSt. Louis Blues
+2020-03-31Ottawa SenatorsTampa Bay Lightning
+2020-03-31Toronto Maple LeafsWashington Capitals
+2020-04-01Dallas StarsAnaheim Ducks
+2020-04-01Montreal CanadiensNashville Predators
+2020-04-01Philadelphia FlyersNew York Rangers
+2020-04-02Vancouver CanucksArizona Coyotes
+2020-04-02Tampa Bay LightningColumbus Blue Jackets
+2020-04-02Vegas Golden KnightsCalgary Flames
+2020-04-02Winnipeg JetsColorado Avalanche
+2020-04-02Ottawa SenatorsFlorida Panthers
+2020-04-02Buffalo SabresNew Jersey Devils
+2020-04-02Chicago BlackhawksNew York Islanders
+2020-04-02Nashville PredatorsPhiladelphia Flyers
+2020-04-02New York RangersPittsburgh Penguins
+2020-04-02Dallas StarsSan Jose Sharks
+2020-04-02Boston BruinsSt. Louis Blues
+2020-04-02Detroit Red WingsToronto Maple Leafs
+2020-04-02Minnesota WildWashington Capitals
+2020-04-03Los Angeles KingsAnaheim Ducks
+2020-04-03Columbus Blue JacketsCarolina Hurricanes
+2020-04-04Winnipeg JetsArizona Coyotes
+2020-04-04Carolina HurricanesBoston Bruins
+2020-04-04Philadelphia FlyersBuffalo Sabres
+2020-04-04Edmonton OilersCalgary Flames
+2020-04-04St. Louis BluesColorado Avalanche
+2020-04-04Tampa Bay LightningDetroit Red Wings
+2020-04-04Washington CapitalsFlorida Panthers
+2020-04-04Dallas StarsLos Angeles Kings
+2020-04-04Minnesota WildNashville Predators
+2020-04-04New Jersey DevilsNew York Islanders
+2020-04-04Chicago BlackhawksNew York Rangers
+2020-04-04Pittsburgh PenguinsOttawa Senators
+2020-04-04Anaheim DucksSan Jose Sharks
+2020-04-04Montreal CanadiensToronto Maple Leafs
+2020-04-04Vegas Golden KnightsVancouver Canucks
+
