@@ -1042,20 +1042,20 @@ Notes
 2020-03-03Boston Bruins2Tampa Bay Lightning119,0922:31
 2020-03-03New Jersey Devils0Vegas Golden Knights318,2902:24
 2020-03-03Buffalo Sabres1Winnipeg Jets315,3252:15
-2020-03-04Columbus Blue JacketsCalgary Flames
-2020-03-04Anaheim DucksColorado Avalanche
-2020-03-04Arizona CoyotesVancouver Canucks
-2020-03-04Philadelphia FlyersWashington Capitals
-2020-03-05Pittsburgh PenguinsBuffalo Sabres
-2020-03-05Edmonton OilersChicago Blackhawks
-2020-03-05Boston BruinsFlorida Panthers
-2020-03-05Toronto Maple LeafsLos Angeles Kings
-2020-03-05Dallas StarsNashville Predators
-2020-03-05Washington CapitalsNew York Rangers
-2020-03-05New York IslandersOttawa Senators
-2020-03-05Carolina HurricanesPhiladelphia Flyers
-2020-03-05Minnesota WildSan Jose Sharks
-2020-03-05Montreal CanadiensTampa Bay Lightning
+2020-03-04Columbus Blue Jackets2Calgary Flames3OT18,6962:20
+2020-03-04Anaheim Ducks4Colorado Avalanche3OT18,0332:35
+2020-03-04Arizona Coyotes4Vancouver Canucks217,3632:30
+2020-03-04Philadelphia Flyers5Washington Capitals218,5732:37
+2020-03-05Pittsburgh Penguins4Buffalo Sabres218,2362:26
+2020-03-05Edmonton Oilers3Chicago Blackhawks421,4812:19
+2020-03-05Boston Bruins2Florida Panthers1OT15,5772:57
+2020-03-05Toronto Maple Leafs0Los Angeles Kings1SO17,4952:33
+2020-03-05Dallas Stars0Nashville Predators217,3492:23
+2020-03-05Washington Capitals5New York Rangers6OT17,2772:38
+2020-03-05New York Islanders3Ottawa Senators413,4452:24
+2020-03-05Carolina Hurricanes1Philadelphia Flyers418,9002:20
+2020-03-05Minnesota Wild3San Jose Sharks214,5172:22
+2020-03-05Montreal Canadiens0Tampa Bay Lightning419,0922:28
 2020-03-06Toronto Maple LeafsAnaheim Ducks
 2020-03-06Arizona CoyotesCalgary Flames
 2020-03-06Chicago BlackhawksDetroit Red Wings

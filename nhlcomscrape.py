@@ -64,8 +64,7 @@ for y in remove(tuhiList):
 
 for x in range(len(atList)-len(skoorid)):
     skoorid.append("Mängimata")
-print(len(htList))
-print(len(atList))
+
 
 loplikList = []
 
@@ -74,10 +73,10 @@ loplikList.append(atList[0])
 loplikList.append(skoorid[0])
 loplikList.append(otList[0])
 
-'''for x in range(len(htList)):
+for x in range(len(htList)):
     loplikList.append(htList[x])
     loplikList.append(atList[x])
     loplikList.append(skoorid[x])
     loplikList.append(otList[x])
 for x in range(len(loplikList)):
-    print(loplikList[x])'''
+    print(loplikList[x])
