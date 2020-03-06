@@ -15,5 +15,5 @@ Kuues samm eraldab listist kodu ja võõrsil meeskonna ning sorteerib need vasta
 ![Koodirida](/assets/capture3.PNG)
 
 
-Tulemus - 
+Tulemus - Eesmärgist suutsin saavutada skreipimise ja andmete puhastamise ning olulise data viimise ühte nimekirja. Järgmiseks sammuks saab liigatabeli tegemine.
 
