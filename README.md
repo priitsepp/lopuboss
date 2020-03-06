@@ -1,4 +1,4 @@
 # lopuboss
 Lõputöö
 
-[Koodirida] (/assets/capture1.png)
+[Koodirida] (/assets/capture1.PNG)
